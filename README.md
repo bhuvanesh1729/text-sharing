@@ -1,3 +1,5 @@
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0DA3D0799C08DCA41BC11BC6FF87726C5875
+
 # Text Sharing
 
 A simple JavaScript library for sharing and managing text snippets.
