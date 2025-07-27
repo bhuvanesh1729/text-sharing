@@ -1,6 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?2C9A286C5C7CA51094670B8EB6D49138FBB3
-gh repo clone https://github.com/NewsBerry/socialr_backend
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?B409BB21CA9BED4F54BC1CC9C59C7E029049
 
 
 # Text Sharing
