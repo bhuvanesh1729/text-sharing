@@ -1,14 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?7515132853C7AC9E66506DEEBC64630EC9DF
-
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?EDD95DF1A1EA993615ED8324B7388176A8EB
-
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?74AEE5E290212BA5BF2FE741A22D161582C5
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?F62CE0C3A1655D2D08AFB488C28A70FCC8F7
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0DA3D0799C08DCA41BC11BC6FF87726C5875
+https://prod.liveshare.vsengsaas.visualstudio.com/join?2C9A286C5C7CA51094670B8EB6D49138FBB3
 gh repo clone https://github.com/NewsBerry/socialr_backend
 
 
